@@ -1,4 +1,4 @@
-# Stock-Market-RAG--SE25MAID035
+# Stock-Market-RAG--SE25MAID035,se25maid014,se25maid016,se25maid021
 A user enters or uploads a stock market query (e.g., "safe long-term banking stocks with stable returns") and the system retrieves financially and semantically relevant stocks with context about sector, volatility, company fundamentals, and investment risk.
 
 
